@@ -6,7 +6,7 @@
 
 ## :custard: Descrição
 
-Estudo simples usando NodeJs + Express, criando um Crud Básico de personagens! 
+Estudo simples usando NodeJs + Express, criando um Crud Básico de personagens do DBZ! 
 
 ## :information_source: Como usar?
 
