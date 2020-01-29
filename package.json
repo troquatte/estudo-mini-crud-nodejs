@@ -1,0 +1,17 @@
+{
+  "name": "conceitos-node-js",
+  "version": "1.0.0",
+  "description": "Básico de NodeJs",
+  "main": "index.js",
+  "author": "Dener Troquatte",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
