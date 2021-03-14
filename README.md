@@ -12,4 +12,4 @@ Use este código para fazer consultas caso tenha dúvidas no curso.
 
 ---
 
-Com ♥ Dener Troquatte :wave: [Linkedin](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog](https://vidafullstack.com.br/)
+Com  ♥  Dener Troquatte  :wave:  [Linkedin](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog](https://vidafullstack.com.br/)
