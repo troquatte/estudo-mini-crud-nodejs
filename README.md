@@ -1,30 +1,12 @@
 <h1 align="center">
-  <img src="http://vidafullstack.com.br/wp-content/uploads/2020/01/node-express.png" alt="" width="150">
+  <img src="https://vidafullstack.com.br/wp-content/uploads/2020/07/angular.png" alt="" width="150">
   <br>
-    Mini Crud NodeJs + Express
+    Curso completo de Angular 2 + => https://vidafullstack.com.br/curso-de-angular/
 </h1>
 
 ## :custard: Descrição
 
-Estudo simples usando NodeJs + Express, criando um Crud Básico de personagens do DBZ! 
-
-## :information_source: Como usar?
-
-Para usar baixe o Npm ou Yarn
-
-```bash
-# Clone this repository
-$ git clone https://github.com/troquatte/estudo-mini-crud-nodejs.git
-
-# Go into the repository
-$ cd estudo-mini-crud-nodejs
-
-# Install dependencies
-$ yarn install
-
-# Run the app
-$ yarn start
-```
+Use este código para fazer consultas caso tenha dúvidas no curso.
 
 ---
 
